@@ -1,0 +1,3 @@
+1 Hello_A_from_B
+3 moving_to_point
+6 scan_done

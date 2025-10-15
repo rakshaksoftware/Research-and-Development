@@ -1,0 +1,17 @@
+[0.510s] Invoking command in '/home/psychox/drone_ws/build/drone_sim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/psychox/drone_ws/build/drone_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/psychox/drone_ws/install/drone_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/psychox/drone_ws/build/drone_sim/build --no-deps symlink_data
+[0.723s] running develop
+[0.850s] running egg_info
+[0.862s] writing drone_sim.egg-info/PKG-INFO
+[0.862s] writing dependency_links to drone_sim.egg-info/dependency_links.txt
+[0.862s] writing requirements to drone_sim.egg-info/requires.txt
+[0.862s] writing top-level names to drone_sim.egg-info/top_level.txt
+[0.885s] reading manifest file 'drone_sim.egg-info/SOURCES.txt'
+[0.886s] writing manifest file 'drone_sim.egg-info/SOURCES.txt'
+[0.898s] running build_ext
+[0.898s] Creating /home/psychox/drone_ws/install/drone_sim/lib/python3.12/site-packages/drone-sim.egg-link (link to .)
+[0.899s] 
+[0.899s] Installed /home/psychox/drone_ws/build/drone_sim
+[0.899s] running symlink_data
+[0.899s] symbolically linking /home/psychox/drone_ws/build/drone_sim/resource/drone_sim -> /home/psychox/drone_ws/install/drone_sim/share/ament_index/resource_index/packages
+[0.899s] symbolically linking /home/psychox/drone_ws/build/drone_sim/package.xml -> /home/psychox/drone_ws/install/drone_sim/share/drone_sim
+[0.918s] Invoked command in '/home/psychox/drone_ws/build/drone_sim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/psychox/drone_ws/build/drone_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/psychox/drone_ws/install/drone_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/psychox/drone_ws/build/drone_sim/build --no-deps symlink_data

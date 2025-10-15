@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing drone_sim.egg-info/PKG-INFO
+writing dependency_links to drone_sim.egg-info/dependency_links.txt
+writing entry points to drone_sim.egg-info/entry_points.txt
+writing requirements to drone_sim.egg-info/requires.txt
+writing top-level names to drone_sim.egg-info/top_level.txt
+reading manifest file 'drone_sim.egg-info/SOURCES.txt'
+writing manifest file 'drone_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/psychox/drone_ws/install/drone_sim/lib/python3.12/site-packages/drone-sim.egg-link (link to .)
+Installing comm_node script to /home/psychox/drone_ws/install/drone_sim/lib/drone_sim
+Installing move_node script to /home/psychox/drone_ws/install/drone_sim/lib/drone_sim
+Installing receive_node script to /home/psychox/drone_ws/install/drone_sim/lib/drone_sim
+
+Installed /home/psychox/drone_ws/build/drone_sim
+running symlink_data

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: drone-sim
+Version: 0.0.1
+Summary: Drone simulation package for Gazebo and ROS 2 bridge
+Maintainer: Your Name
+Maintainer-email: you@example.com
+License: MIT

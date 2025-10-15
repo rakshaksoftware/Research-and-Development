@@ -1,0 +1,5 @@
+[console_scripts]
+comm_node = drone_sim.comm_node:main
+move_node = drone_sim.move_node:main
+realtime_comm_node = drone_sim.realtime_comm_node:main
+receive_node = drone_sim.receive_node:main
