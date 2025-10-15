@@ -1,0 +1,20 @@
+[0.523s] Invoking command in '/home/psychox/drone_ws/build/drone_sim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/psychox/drone_ws/build/drone_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/psychox/drone_ws/install/drone_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/psychox/drone_ws/build/drone_sim/build --no-deps symlink_data
+[0.726s] running develop
+[0.846s] running egg_info
+[0.857s] writing drone_sim.egg-info/PKG-INFO
+[0.857s] writing dependency_links to drone_sim.egg-info/dependency_links.txt
+[0.857s] deleting drone_sim.egg-info/entry_points.txt
+[0.857s] writing requirements to drone_sim.egg-info/requires.txt
+[0.857s] writing top-level names to drone_sim.egg-info/top_level.txt
+[0.880s] reading manifest file 'drone_sim.egg-info/SOURCES.txt'
+[0.881s] writing manifest file 'drone_sim.egg-info/SOURCES.txt'
+[0.893s] running build_ext
+[0.893s] Creating /home/psychox/drone_ws/install/drone_sim/lib/python3.12/site-packages/drone-sim.egg-link (link to .)
+[0.894s] 
+[0.894s] Installed /home/psychox/drone_ws/build/drone_sim
+[0.894s] running symlink_data
+[0.894s] creating /home/psychox/drone_ws/install/drone_sim/share/ament_index
+[0.894s] creating /home/psychox/drone_ws/install/drone_sim/share/ament_index/resource_index
+[0.894s] creating /home/psychox/drone_ws/install/drone_sim/share/ament_index/resource_index/packages
+[0.894s] error: can't copy '/home/psychox/drone_ws/build/drone_sim/resource/drone_sim': doesn't exist or not a regular file
+[0.913s] Invoked command in '/home/psychox/drone_ws/build/drone_sim' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/psychox/drone_ws/build/drone_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/psychox/drone_ws/install/drone_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/psychox/drone_ws/build/drone_sim/build --no-deps symlink_data
